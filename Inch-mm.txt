@@ -1,4 +1,0 @@
-Fixture-2
-Heater
-Syringe
-Small-tube
